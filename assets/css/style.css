@@ -3,8 +3,19 @@ background: url("../images/polaroid.png")
 }
 
 p{
-    color:gray;
+    color:#6A7A7A;
     font-weight: 500;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    font-family: "Cambay", Verdana, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: 900;
+    color:#333B3A;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 .navbar{
@@ -33,4 +44,15 @@ p{
 .main-section{
     background-color:#f0fffe;
     margin-top: 20px;
+    padding: 10px;
+}
+
+#kate-pic{
+    height: 250px;
+    width: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
 }
