@@ -35,10 +35,6 @@ footer{
     line-height: 60px;
 }
 
-.navbar{
-    background-color: #333B3A;
-}
-
 .fixed-top{
     position: fixed;    
     top:0;right: 0;
@@ -80,9 +76,9 @@ footer{
 }
 
 .footer-text{
-    color: #DAFBFA;
     text-align: center;
     font-size: 10px;
+    color: white;
     
 }
 
@@ -99,4 +95,5 @@ footer{
 }
 .navbar-dark{
     background-color: #333B3A;
+  
 }
